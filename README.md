@@ -4,10 +4,9 @@
 </h1>
 <h3 align="center">Я front-end developer</h3>
 <ul align="left">Изучаю: </ul>
-<li></li>
-<li></li>
-<li></li>
-
+<li><img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/css3.svg" height="32"/></li>
+<li><img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/html5.svg" height="32"/></li>
+<li><img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/react.svg" height="32"/></li>
 
 
 <!--
