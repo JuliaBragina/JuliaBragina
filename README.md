@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #F5F5F5" >Привет, меня зовут Юлия Брагина.</h1>
 <section>
-  <h2 align="left" style="color: #F5F5F5">Обо мне: </h3>
+  <h2 align="left" style="color: #F5F5F5">Обо мне: </h2>
   <ul align="left" style="padding: 0">
     <li style="color: #F5F5F5">Я начинающий Front-end developer.</li>
     <li style="color: #F5F5F5">Развиваю навык написания чистого и понятного кода.</li>
@@ -9,7 +9,7 @@
 </section>
 
 <section>
-  <h2 align="left" style="color: #F5F5F5">Мой стек: </h3>
+  <h2 align="left" style="color: #F5F5F5">Мой стек: </h2>
   <div>
     <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/visualstudiocode.svg" width="35" height="35" style="max-width: 100%" alt="visualstudiocode"/>
     <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/css3.svg" width="35" height="35" style="max-width: 100%" alt="CSS3"/>
@@ -25,7 +25,7 @@
 </section>
 
 <section>
-  <h2 align="left" >Сейчас: </h3>
+  <h2 align="left" >Сейчас: </h2>
   <ul align="left" style="padding: 0">
     <li style="color: #F5F5F5">Сейчас обучаюсь в Яндекс.Практикуме под руководством опытных наставников.</li>
   </ul>
