@@ -8,7 +8,7 @@
 </section>
 <h4 align="left">Technologies and Tools I use: </h4>
 <section>
-<img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/css3.svg" height="32" fill="red"/>
+<img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/css3.svg" height="32"/>
 <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/html5.svg" height="32"/>
 <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/react.svg" height="32"/>
 <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/github.svg" height="32"/>
