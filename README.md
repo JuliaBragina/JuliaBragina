@@ -12,8 +12,9 @@
   <h2 align="left" style="color: #F5F5F5">Мой стек: </h2>
   <div>
     <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/visualstudiocode.svg" width="35" height="35" style="max-width: 100%" alt="visualstudiocode"/>
-    <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/css3.svg" width="35" height="35" style="max-width: 100%" alt="CSS3"/>
     <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/html5.svg" width="35" height="35" style="max-width: 100%" alt="HTML5"/>
+    <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/css3.svg" width="35" height="35" style="max-width: 100%" alt="CSS3"/>
+    <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/bem.svg" width="35" height="35" style="max-width: 100%" alt="bem.js"/>
     <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/react.svg" width="35" height="35" style="max-width: 100%" alt="React.js"/>
     <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/github.svg" width="35" height="35" style="max-width: 100%" alt="github"/>
     <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/postman.svg" width="35" height="35" style="max-width: 100%" alt="Postman"/>
