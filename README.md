@@ -1,6 +1,7 @@
 <h1 align="center" style="color: #F5F5F5" >Привет, меня зовут Юлия Брагина.</h1>
 <section>
-  <ul align="left" style="color: #F5F5F5; padding: 0">Обо мне:
+  <h3 align="left" style="color: #F5F5F5">Обо мне: </h3>
+  <ul align="left" style="color: #F5F5F5; padding: 0">
     <li>Я начинающий Front-end developer.</li>
     <li>Стремлюсь углублять и расширять свои знания в области front-end разработки.</li>
   </ul>
