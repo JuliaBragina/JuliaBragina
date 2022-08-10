@@ -1,12 +1,9 @@
-<h1 align="center">Всем привет, меня зовут
-  <a href="https://daniilshat.ru/" target="_blank">Юлия Брагина</a>
-</h1>
-<h3 align="center">Я front-end developer</h3>
-<h4 align="left" >About Me: </h4>
+<h1 align="center">Всем привет, Я Юлия Брагина, Front-end developer</h1>
+<h3 align="left" >About Me: </h3>
 <section>
 
 </section>
-<h4 align="left">Technologies and Tools I use: </h4>
+<h3 align="left">Technologies and Tools I use: </h3>
 <section>
 <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/css3.svg" height="32"/>
 <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/html5.svg" height="32"/>
