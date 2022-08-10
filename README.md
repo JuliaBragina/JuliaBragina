@@ -1,12 +1,13 @@
-<h1 align="center">Всем привет, я
-  <a href="https://daniilshat.ru/" target="_blank">Юлия Брагина</a> 
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<h1 align="center">Всем привет, меня зовут
+  <a href="https://daniilshat.ru/" target="_blank">Юлия Брагина</a>
 </h1>
 <h3 align="center">Я front-end developer</h3>
-<ul align="left">Изучаю: </ul>
-<li><img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/css3.svg" height="32"/></li>
-<li><img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/html5.svg" height="32"/></li>
-<li><img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/react.svg" height="32"/></li>
+<h4 align="left">Изучаю: </h4>
+<section>
+<img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/css3.svg" height="32"/>
+<img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/html5.svg" height="32"/>
+<img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/react.svg" height="32"/>
+</section>
 
 
 <!--
