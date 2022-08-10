@@ -1,9 +1,10 @@
 <h1 align="center" style="color: #F5F5F5" >Привет, меня зовут Юлия Брагина.</h1>
+<h2 align="center" style="color: #F5F5F5" >Я начинающий Front-end developer.</h2>
 <section>
   <h3 align="left" style="color: #F5F5F5">Обо мне: </h3>
-  <ul align="left" style="color: #F5F5F5; padding: 0">
-    <li>Я начинающий Front-end developer.</li>
-    <li>Стремлюсь углублять и расширять свои знания в области front-end разработки.</li>
+  <ul align="left" style="padding: 0">
+    <li style="color: #F5F5F5">Развиваю навык написания чистого и понятного кода.</li>
+    <li style="color: #F5F5F5">Стремлюсь углублять и расширять свои знания в области front-end разработки.</li>
   </ul>
 </section>
 
@@ -24,6 +25,8 @@
 </section>
 
 <section>
-  <h3 align="left" >Now: </h3>
-  <p>Сейчас обучаюсь в Яндекс.Практикуме под руководством опытных наставников.</p>
+  <h3 align="left" >Сейчас: </h3>
+  <ul align="left" style="padding: 0">
+    <li style="color: #F5F5F5">Сейчас обучаюсь в Яндекс.Практикуме под руководством опытных наставников.</li>
+  </ul>
 </section>
