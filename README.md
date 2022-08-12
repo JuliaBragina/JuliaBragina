@@ -5,6 +5,7 @@
     <li style="color: #F5F5F5">Я начинающий Front-end developer.</li>
     <li style="color: #F5F5F5">Развиваю навык написания чистого и понятного кода.</li>
     <li style="color: #F5F5F5">Стремлюсь углублять и расширять свои знания в области front-end разработки.</li>
+    <li style="color: #F5F5F5">В данный момент обучаюсь в Яндекс.Практикуме под руководством опытных наставников.</li>
   </ul>
 </section>
 
@@ -23,11 +24,4 @@
     <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/mongodb.svg" width="35" height="35" style="max-width: 100%" alt="mongodb"/>
     <img src="https://github.com/JuliaBragina/JuliaBragina/blob/main/img/webpack.svg" width="35" height="35" style="max-width: 100%" alt="webpack"/>
   </div>
-</section>
-
-<section>
-  <h2 align="left" >Сейчас: </h2>
-  <ul align="left" style="padding: 0">
-    <li style="color: #F5F5F5">Сейчас обучаюсь в Яндекс.Практикуме под руководством опытных наставников.</li>
-  </ul>
 </section>
