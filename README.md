@@ -2,10 +2,8 @@
 <section>
   <h2 align="left" style="color: #F5F5F5">Обо мне: </h2>
   <ul align="left" style="padding: 0">
-    <li style="color: #F5F5F5">Я начинающий Front-end developer.</li>
     <li style="color: #F5F5F5">Развиваю навык написания чистого и понятного кода.</li>
     <li style="color: #F5F5F5">Стремлюсь углублять и расширять свои знания в области front-end разработки.</li>
-    <li style="color: #F5F5F5">Прошла обучение в Яндекс.Практикуме под руководством опытных наставников.</li>
   </ul>
 </section>
 
